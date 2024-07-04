@@ -1,5 +1,5 @@
-# DonutDashT
-DonutDashT
+# DeepExploration
+DeepExploration
 
 
 
@@ -13,17 +13,17 @@ Welcome to download and use
 
 
 
-DonutDashT Privacy Policy
+DeepExploration Privacy Policy
 
 Overview
-This privacy policy describes the information collected by "DonutDashT" (“we,” “us” or “our”) through our mobile applications and website and how we use that information.
+This privacy policy describes the information collected by "DeepExploration" (“we,” “us” or “our”) through our mobile applications and website and how we use that information.
 
 
-How does "DonutDashT" use the personal information that it collects?
+How does "DeepExploration" use the personal information that it collects?
 We do not collect or store any personal information.
 
 
-Does "DonutDashT" share the personal information that it collects?
+Does "DeepExploration" share the personal information that it collects?
 We do not collect or share any of your personal information.
 
 
@@ -41,4 +41,4 @@ We may amend this privacy policy from time to time. Use of information we collec
 Contact us ---  haichiqwnmi@gmail.com
 
 
-If you have any questions or concerns regarding this Privacy Policy, please send a mail to "DonutDashT".
+If you have any questions or concerns regarding this Privacy Policy, please send a mail to "DeepExploration".
