@@ -1,5 +1,5 @@
-# DeepExploration
-DeepExploration
+# SequenceBoom
+SequenceBoom
 
 
 
@@ -7,23 +7,23 @@ Developer:Thi Linh Nguyen
 
 If you have any questions or suggestions, please feel free to contact us. Here is our contact information 
 
-furykew@gmail.com
+w1ta2fghoe@hotmail.com
 
 Welcome to download and use
 
 
 
-DeepExploration Privacy Policy
+SequenceBoom Privacy Policy
 
 Overview
-This privacy policy describes the information collected by "DeepExploration" (“we,” “us” or “our”) through our mobile applications and website and how we use that information.
+This privacy policy describes the information collected by "SequenceBoom" (“we,” “us” or “our”) through our mobile applications and website and how we use that information.
 
 
-How does "DeepExploration" use the personal information that it collects?
+How does "SequenceBoom" use the personal information that it collects?
 We do not collect or store any personal information.
 
 
-Does "DeepExploration" share the personal information that it collects?
+Does "SequenceBoom" share the personal information that it collects?
 We do not collect or share any of your personal information.
 
 
@@ -41,4 +41,4 @@ We may amend this privacy policy from time to time. Use of information we collec
 Contact us ---  haichiqwnmi@gmail.com
 
 
-If you have any questions or concerns regarding this Privacy Policy, please send a mail to "DeepExploration".
+If you have any questions or concerns regarding this Privacy Policy, please send a mail to "SequenceBoom".
